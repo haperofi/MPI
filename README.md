@@ -1,5 +1,5 @@
 # MPI
-2 Simple Message Passing Interface (MPI) examples to demonstrate sending and receiving messages.
+2 Simple Message Passing Interface (MPI) examples to demonstrate sending and receiving messages. These were written and tested using the OpenMPI library.
 
 MPI_send_recv_example.c uses blocking sending and receiving, with MPI_Send and MPI_Recv.
 
